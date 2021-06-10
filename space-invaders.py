@@ -175,3 +175,5 @@ while running:
     player(playerX, playerY)
     show_scores(textX, textY)
     pygame.display.update()
+
+# Created with the help of freeCodeCamp Youtube Video
