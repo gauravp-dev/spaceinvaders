@@ -10,7 +10,7 @@ pygame.init()
 screen = pygame.display.set_mode((800, 600))
 
 # Background
-Background = pygame.image.load('BackgroundP2.jpg')
+Background = pygame.image.load('Background.jpg')
 
 # Adding Background Sound
 mixer.music.load('Music.mp3')
